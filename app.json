@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.abhi012323.userDirectory"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7c9de0a1-a5f7-45f2-bf40-f17eba7bbac0"
+      }
+    },
+    "owner": "abhi012323"
   }
 }
